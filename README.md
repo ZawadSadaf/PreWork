@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/ocrfkS4.gif)
 
 GIF created with [QuickTime Player].
 
